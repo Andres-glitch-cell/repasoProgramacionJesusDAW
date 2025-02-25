@@ -1,0 +1,11 @@
+10.1 Actividades
+Realiza un programa definiendo una clase Coche con los atributos que puedes ver en la ilustración
+siguiente, por otra parte debes definir una clase lanzadora que cree un array de objetos de la clase
+Coche (denominado coches), como puedes ver en la imagen siguiente, la capacidad máxima del
+array será de 4 objetos de la clase Coche.
+
+2. Crear una alta de un coche
+3. Que te visalize los coches con las amtriculas etc
+4. Buscar un coche con una determinada marca
+5. Calcular una media de todos los Kms de cada coche
+6. Salir
