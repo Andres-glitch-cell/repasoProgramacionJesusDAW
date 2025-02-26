@@ -5,6 +5,7 @@ class Vehiculo {
     protected String marca;
     protected int año;
 
+    // Constructor
     public Vehiculo(String marca, int año) {
         this.marca = marca;
         this.año = año;
