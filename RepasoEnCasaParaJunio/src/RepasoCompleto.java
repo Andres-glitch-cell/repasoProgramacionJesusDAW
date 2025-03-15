@@ -12,8 +12,8 @@ public class RepasoCompleto {
         System.out.println("4. Jugar a los dados");
         System.out.println("5. Hacer sumas de columnas y filas");
         System.out.println("6. Hacer sumas de solamente columnas");
-        System.out.println("7. Hacer sumas de solamente filassssssss");
-        System.out.println("8. Separar palabras o frasesssssss");
+        System.out.println("7. Hacer sumas de solamente filas");
+        System.out.println("8. Separar palabras o frases");
         System.out.println("9. Poner palabras al revés o frases al revés");
         System.out.println("10. Menú de condicionales sencillos");
         System.out.println("Elige una opción; ");
@@ -92,6 +92,7 @@ public class RepasoCompleto {
 
 
                     case 2:
+
                 }
         }
     }
